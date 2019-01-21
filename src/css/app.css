@@ -1,0 +1,9 @@
+body {
+    background : #f3f3f3;
+    overflow-y: scroll;
+}
+
+h1 {
+    text-align: center;
+    color: deepskyblue;
+}
